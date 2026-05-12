@@ -104,8 +104,9 @@ https://www.molinacrypto.eu/
 
 ## Risorse collegate
 
-- Checklist sicurezza crypto per utenti italiani:  
-  https://github.com/molpaolo3/crypto-security-checklist-it
+- Sito principale: https://www.molinacrypto.eu/
+- Archivio approfondimenti: https://www.molinacrypto.eu/archivio.html
+- Checklist sicurezza crypto: https://github.com/molpaolo3/crypto-security-checklist-it
 
 ## Nota
 
